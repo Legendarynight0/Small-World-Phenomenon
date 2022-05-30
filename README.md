@@ -13,9 +13,7 @@ This project test dataset is movies/actors dataset.
 The program returns path with smallest number of vetcies and highest weight, and print chain of actors and thier movies
 it also contains all the test cases from small to extreme.
 
-The Project is for Analysis and Design of Algorithm course in Ain shams university, course teacher is Dr.Ahmed Salah
-the files contain pdf with full code analysis and complexity.
-
+The Project is for Analysis and Design of Algorithm course in Ain shams university, course teacher is Dr.Ahmed Salah.
 
 maximum test time: 57s
 
