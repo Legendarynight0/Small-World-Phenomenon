@@ -1,0 +1,5 @@
+					best
+Large 26 q takes 	1:30	0:35   	0:15	
+Large 600 q takes	0:12	0:12	0:15	
+Extreme 200 q takes	0:39	0:38	0:53
+Extreme	22 q takes	6:30	5:07	0:52
